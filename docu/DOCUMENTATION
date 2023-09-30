@@ -1,0 +1,6 @@
+When running application, it is currently listening to port 8080
+
+I have mainTest as a program and I have it on a page called welcome
+When calling the page, you have to type in the URL
+
+Localhost:8080/welcome
